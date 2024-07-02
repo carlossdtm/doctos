@@ -1,0 +1,6 @@
+1.	Facilitar el trabajo al equipo.
+2.	Transmitir información a los involucrados en el proyecto.
+3.	Normalización de ambientes DEV y UAT a versiones de SDK y JDK originales iguales a PROD
+4.	Migración Auth SDK SPA - CSI 163820 – Desarrollo de la solución – Pruebas ambiente desarrollo
+5.	Migración Admin SDK SPA - CSI 163820 – Desarrollo de la solución – Pruebas ambiente desarrollo
+6.	Solución para la Renovación de Llaves – Aplicación CSI 164150 – Desarrollo de la solución – Pruebas ambiente desarrollo y UAT.
